@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: m20036/go-server-ci
+      - image: m20036/go-server
         name: go-server-ci
